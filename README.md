@@ -12,7 +12,7 @@ Afin de faciliter la prise en charge du patient, j'ai développé un outil perme
 
 **Types**
 
-Il y a 3 types de tumeur :
+Il y a 3 types de tumeurs dans ce jeu de données:
 
 -**Tumeur gliome** : Le gliome est un type de tumeur qui se produit dans le cerveau et la moelle épinière. Les gliomes commencent dans les cellules de soutien gluantes (cellules gliales) qui entourent les cellules nerveuses et les aident à fonctionner. Trois types de cellules gliales peuvent produire des tumeurs. Les gliomes sont classés selon le type de cellule gliale impliquée dans la tumeur, ainsi que les caractéristiques génétiques de la tumeur, ce qui peut aider à prédire le comportement de la tumeur au fil du temps et les traitements les plus susceptibles de fonctionner.
 
