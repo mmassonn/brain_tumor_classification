@@ -52,3 +52,5 @@ Ici, je choisi l'exactitude comme métrique d'évaluation. Cette dernière perme
 ### Modèle
 
 Les réseaux de neurones convolutifs (en anglais Convolutional neural networks), aussi connus sous le nom de CNNs, sont un type spécifique de réseaux de neurones qui sont généralement composés des couches suivantes : convolutifs, pooling et pleinement connectée. Ils sont trés utilisés dans le domaine du traitement de l'images.
+
+Le transfer learning vise à transférer des connaissances d'une ou plusieurs tâches sources vers une ou plusieurs tâches cibles. Il peut être vu comme la capacité d’un système à reconnaître et appliquer des connaissances et des compétences, apprises à partir de tâches antérieures, sur de nouvelles tâches ou domaines partageant des similitudes.
