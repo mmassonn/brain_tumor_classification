@@ -13,7 +13,7 @@ Une tumeur cérébrale est une masse ou une croissance de cellules anormales dan
 
 L'objectif de ce projet est mettre en place un classificateur d'images IRM permettant de différencier différents types de tumeurs cérébrales. Il s'inscrit dans une démarche d'aide médicale au diagnostique mais n'ayant pas été validé par des experts, il ne doit pas être utilisé à des fins médicales.
 
-### Base de données
+### Base de données (3264 patients)
 
 J'utilise un jeu de données provenant de Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, and Swati Kanchan, “Brain Tumor Classification (MRI).” Kaggle, 2020, doi: 10.34740/KAGGLE/DSV/1183165, où il y a 4 types de prédictions possibles.
 
