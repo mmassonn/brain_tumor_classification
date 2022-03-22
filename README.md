@@ -11,7 +11,7 @@ Veuillez trouver ci-dessus :
 
 Une tumeur cérébrale est une masse ou une croissance de cellules anormales dans le cerveau. Il existe de nombreux types de tumeurs cérébrales. Certaines sont non cancéreuses (bénignes) mais d'autres sont cancéreuses (malignes). Les options de traitement des tumeurs cérébrales dépendent du type de tumeur cérébrale dont vous souffrez, ainsi que de sa taille et de son emplacement.
 
-L'objectif de ce projet est mettre en place classificateur d'images IRM permettant de différencier différents types de tumeurs cérébrales. Il s'inscrit dans une démarche d'aide médicale au diagnostique mais n'ayant pas été validé par des experts, il ne doit pas être utilisé à des fins médicales.
+L'objectif de ce projet est mettre en place un classificateur d'images IRM permettant de différencier différents types de tumeurs cérébrales. Il s'inscrit dans une démarche d'aide médicale au diagnostique mais n'ayant pas été validé par des experts, il ne doit pas être utilisé à des fins médicales.
 
 ### Base de données
 
