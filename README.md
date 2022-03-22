@@ -1,4 +1,4 @@
-# Classsification du type de tumeurs cérébrales
+# Classsification de tumeurs cérébrales
 
 Veuillez trouver ci-dessus :
 
